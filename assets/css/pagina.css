@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter:wght@400;500;600;700 & family= Righteous & family= Roboto:ital,wght@0,100;0,300; 0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900 & família= Sarala & display=swap');
+
+body {
+  background-image: url(../imagens/login.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+  
+  .container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 100px;
+}
+  
+  h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #272262;
+}
